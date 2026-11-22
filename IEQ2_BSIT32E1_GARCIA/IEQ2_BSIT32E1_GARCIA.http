@@ -1,0 +1,6 @@
+@IEQ2_BSIT32E1_GARCIA_HostAddress = http://localhost:5198
+
+GET {{IEQ2_BSIT32E1_GARCIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

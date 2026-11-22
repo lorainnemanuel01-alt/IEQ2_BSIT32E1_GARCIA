@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\data\\staticuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\data\\staticuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\data\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\data\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\model\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\model\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\model\\users\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\model\\users\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\model\\users\\getuserbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\model\\users\\getuserbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\model\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\model\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|c:\\users\\user\\source\\repos\\ieq2_bsit32e1_garcia\\ieq2_bsit32e1_garcia\\model\\users\\edituserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B22652-291B-4C7E-81D0-EEAD3947C882}|IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA.csproj|solutionrelative:ieq2_bsit32e1_garcia\\model\\users\\edituserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:07:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\StaticUser.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Data\\StaticUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\StaticUser.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Data\\StaticUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T02:23:46.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\UserGroup.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Data\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\UserGroup.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Data\\UserGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T01:52:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\User.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Data\\User.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T01:48:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T01:00:33.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserResponse.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:38:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\CreateUserRequest.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:35:02.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserByIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserByIdResponse.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserByIdResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserByIdResponse.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\GetUserByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:38:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\EditUserRequest.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\EditUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\Users\\EditUserRequest.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Model\\Users\\EditUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:37:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IEQ2_BSIT32E1_GARCIA\\Model\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IEQ2_BSIT32E1_GARCIA\\IEQ2_BSIT32E1_GARCIA\\Model\\WeatherForecast.cs",
+              "RelativeToolTip": "IEQ2_BSIT32E1_GARCIA\\Model\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:09:04.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

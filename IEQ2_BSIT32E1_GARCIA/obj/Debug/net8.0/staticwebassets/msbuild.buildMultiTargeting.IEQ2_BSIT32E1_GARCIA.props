@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IEQ2_BSIT32E1_GARCIA.props" />
+</Project>
